@@ -1,0 +1,38 @@
+{
+    "root": true,
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true
+    },
+    "extends": "standard",
+	"plugins": [
+		"html"
+	],
+    "parserOptions": {
+        "parser": "babel-eslint",
+        "sourceType": "module",
+        "ecmaVersion": 7,
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "indent": [
+            "error", 
+            4
+        ],
+        "linebreak-style": [
+            "error", 
+            "windows"
+        ],
+        "quotes": [
+            "error", 
+            "single"
+        ],
+        "semi": [
+            "error", 
+            "always"
+        ]
+    }
+}

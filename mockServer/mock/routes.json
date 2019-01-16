@@ -1,0 +1,15 @@
+{
+    "/hawkeye/user/login": "/login",
+    "/hawkeye/user/logout": "/logout",
+    "/hawkeye/user/info": "/user_info",
+    "/dw/monitor/getEnv": "/getEnv",
+    "/dw/monitor/data/getModule": "/getModule",
+    "/dw/monitor/task/getModule": "/getModule2",
+    "/dw/monitor/dataM/getList": "/list",
+    "/dw/monitor/taskM/getList": "/list2",
+    "/dw/monitor/alarm/config/message": "/message",
+    "/dw/monitor/alarm/config/getList": "/getList",
+    "/dw/monitor/alarm/config/taskConfig": "/config",
+    "/dw/monitor/alarm/config/moduleConfig": "/config"
+
+}
