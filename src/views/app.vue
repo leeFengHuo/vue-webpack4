@@ -10,6 +10,8 @@
         name: 'App',
         components: {
             appHeader
+        },
+        mounted () {
         }
     };
 </script>
